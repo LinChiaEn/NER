@@ -21,9 +21,11 @@ Output : 5 types of entities (People, Time, Location, Object, Event)
 ![image](https://user-images.githubusercontent.com/93340978/235042454-465fd09c-e9f3-42b8-ba3d-c12abab69f94.png)
 ### location
 找句子中的地點時，找出句中是否有Nc
+
 ![image](https://user-images.githubusercontent.com/93340978/235042549-ea7ea5a2-4e30-40d9-8cd9-a310ee11f2aa.png)
 ### object
 找句子中的物件時，找出句中是否有Na
+
 ![image](https://user-images.githubusercontent.com/93340978/235042618-0ac9aed2-e1ce-4d6b-9740-12b01f12ac72.png)
 
 
